@@ -1,12 +1,12 @@
-Grading Contract
+Jamieson’s Grading Contract
 ================
-January 12 2023
+January 27 2025
 
 <!-- This contract is adapted from Annie Somerville's contract https://github.com/anniehsom -->
 
 # Contract Grades – “A” Contract
 
-I, Tukey Cat, agree to :
+I, Jamieson Nathan, agree to :
 
 1)  Earn “Satisfactory” on 11 self-paced lab assignments on the schedule
     specified below.
@@ -27,9 +27,6 @@ I, Tukey Cat, agree to :
 
 ## SCHEDULE
 
-Note: This is an example schedule. You are welcomed and encouraged to
-rearrange these labs and events to fit your needs.
-
 - [ ] Module 01, 01/09 - 01/13 : What is Data Science and Meet the
   Toolkit
 
@@ -42,40 +39,36 @@ rearrange these labs and events to fit your needs.
 
 - [ ] Module 03, 01/23 - 01/27 : Grammar of data wrangling
 
-  - Finish Lab 3 by Friday: 01/27
   - Finish portfolio piece 1 by Friday: 01/27
 
 - [ ] Module 04, 01/30 - 02/03 : Data types and Data Transformations
 
-  - Finish Lab 4 by Friday: 02/03
+  - Finish Lab 3&4 by Friday: 02/03
 
 - [ ] Module 05, 02/06 - 02/10 : Tips for effective data visualization
 
-  - Finish Lab 5 by Friday: 02/10
   - Finish portfolio piece 2 by Friday: 02/10
 
 - [ ] Module 06, 02/13 - 02/17 : Scientific studies and confounding
 
-  - Finish Lab 6 by Friday: 02/17
+  - Finish Lab 5&6 by Friday: 02/17
   - Schedule a check-in with Mason by Friday: 02/17
 
 - [ ] Module 07, 02/20 - 02/24 : Web scraping
 
-  - Finish Lab 7 by Friday: 02/24
   - Finish portfolio piece 3 by Friday: 02/24
 
 - [ ] Module 08, 02/27 - 03/03 : Functions
 
-  - Finish Lab 8 by Friday: 03/03
+  - Finish Lab 7&8 by Friday: 03/03
 
 - [ ] Module 09, 03/06 - 03/10 : Data and Ethics
 
-  - Finish Lab 9 by Friday: 03/10
   - Finish portfolio piece 4 by Friday: 03/10
 
 - [ ] Module 10, 03/13 - 03/17 : Fitting and interpreting models
 
-  - Finish Lab 10 by Friday: 03/17
+  - Finish Lab 9&10 by Friday: 03/17
 
 - [ ] Module 11, 03/20 - 03/24 : Prediction and overfitting
 
